@@ -41,7 +41,7 @@ Console.WriteLine("Cумма цифр числа " + number + " равна " + s
 
 // Задача 29: Напишите программу, которая задаёт массив из m элементов и выводит их на экран.
 
-
+/*
 int[] CreateArray(int length)
 {
     int[] array = new int[length];
@@ -66,3 +66,4 @@ Console.Write("Введите длину массива: ");
 int m = Convert.ToInt32(Console.ReadLine());
 int[] array = CreateArray(m);
 PrintArray(array);
+*/
